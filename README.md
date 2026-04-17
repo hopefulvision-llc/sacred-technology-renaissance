@@ -1,3 +1,47 @@
+# Sacred Technology Renaissance
+
+> **Layer:** Foundation  
+> **Status:** Foundational Canon  
+> **Audience:** Newcomers, researchers, movement participants, sacred technology builders  
+> **Related:** `technomysticism`, `living-intelligence`, `philosophy-of-the-all`, `company`
+
+## What this repo is
+Sacred Technology Renaissance is an umbrella foundation repo for the broader cultural, civilizational, and philosophical movement behind the HopefulVision ecosystem. It frames the project not merely as a technical effort, but as part of a larger reorientation of technology toward consciousness, ethics, reverence, and planetary flourishing.
+
+This repo holds the movement-level frame.
+
+## Why it exists
+Many of the problems created by modern technology are not merely technical failures, but civilizational failures of meaning, values, and relationship. Sacred Technology Renaissance exists to articulate the larger cultural shift needed to move from extractive, consciousness-diminishing systems toward tools and institutions that support aliveness, dignity, and deeper participation in reality.
+
+It provides the broadest movement container for the work.
+
+## What Sacred Technology Renaissance is not
+Sacred Technology Renaissance is **not**:
+- the detailed systems architecture layer, which belongs to `nousos`
+- only a personal mystical philosophy repo
+- the sole canonical foundation for every worldview branch in the ecosystem
+
+Sacred Technology Renaissance is the **umbrella cultural and movement foundation**.
+
+## How it fits the ecosystem
+This repo connects most directly to:
+- `technomysticism`, which provides a core philosophical bridge between spirit and technology
+- `living-intelligence`, which grounds the ecosystem in a life-centered understanding of intelligence
+- `philosophy-of-the-all`, which provides deeper metaphysical support
+- `company`, which gives institutional form to parts of this larger movement
+
+## Start here
+- `README.md`
+- `Sacred-Technology-Renaissance_Master_Index.md`
+- `Sacred_Technology_Renaissance_Activation_Sequence.md`
+- `hopefulvision_lexicon_v2.md`
+
+## Current maturity
+- foundational canon
+- movement framing
+- umbrella worldview articulation
+
+
 # Sacred Technology Renaissance - January 2026 Update
 ## Consciousness-First Technology for Planetary Healing
 
